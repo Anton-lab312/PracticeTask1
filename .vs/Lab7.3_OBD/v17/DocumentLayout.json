@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\lab7.3_obd\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|solutionrelative:lab7.3_obd\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\lab7.3_obd\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|solutionrelative:lab7.3_obd\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\lab7.3_obd\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|solutionrelative:lab7.3_obd\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|c:\\users\\anton\\desktop\\lab7.3_obd\\lab7.3_obd\\folderforforms\\formtourview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|solutionrelative:lab7.3_obd\\folderforforms\\formtourview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\lab7.3_obd\\folderforforms\\formtourview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|solutionrelative:lab7.3_obd\\folderforforms\\formtourview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\lab7.3_obd\\folderforforms\\formtourview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|solutionrelative:lab7.3_obd\\folderforforms\\formtourview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\lab7.3_obd\\folderforforms\\formreservationnew.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA90F7BC-2975-4800-A774-F5115F0F1C49}|Lab7.3_OBD\\Lab7.3_OBD.csproj|solutionrelative:lab7.3_obd\\folderforforms\\formreservationnew.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\DataBase.cs",
+              "RelativeDocumentMoniker": "Lab7.3_OBD\\DataBase.cs",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\DataBase.cs",
+              "RelativeToolTip": "Lab7.3_OBD\\DataBase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:48:25.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTourView.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\FolderForForms\\FormTourView.cs",
+              "RelativeDocumentMoniker": "Lab7.3_OBD\\FolderForForms\\FormTourView.cs",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\FolderForForms\\FormTourView.cs",
+              "RelativeToolTip": "Lab7.3_OBD\\FolderForForms\\FormTourView.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:13:08.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormTourView.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\FolderForForms\\FormTourView.cs",
+              "RelativeDocumentMoniker": "Lab7.3_OBD\\FolderForForms\\FormTourView.cs",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\FolderForForms\\FormTourView.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab7.3_OBD\\FolderForForms\\FormTourView.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:12:59.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormTourView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\FolderForForms\\FormTourView.Designer.cs",
+              "RelativeDocumentMoniker": "Lab7.3_OBD\\FolderForForms\\FormTourView.Designer.cs",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\FolderForForms\\FormTourView.Designer.cs",
+              "RelativeToolTip": "Lab7.3_OBD\\FolderForForms\\FormTourView.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:12:25.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormReservationNew.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\FolderForForms\\FormReservationNew.Designer.cs",
+              "RelativeDocumentMoniker": "Lab7.3_OBD\\FolderForForms\\FormReservationNew.Designer.cs",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\FolderForForms\\FormReservationNew.Designer.cs",
+              "RelativeToolTip": "Lab7.3_OBD\\FolderForForms\\FormReservationNew.Designer.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowCUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:18:28.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\Login.cs",
+              "RelativeDocumentMoniker": "Lab7.3_OBD\\Login.cs",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\Login.cs",
+              "RelativeToolTip": "Lab7.3_OBD\\Login.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:28:00.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\Login.cs",
+              "RelativeDocumentMoniker": "Lab7.3_OBD\\Login.cs",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\Lab7.3_OBD\\Lab7.3_OBD\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab7.3_OBD\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:28:02.007Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

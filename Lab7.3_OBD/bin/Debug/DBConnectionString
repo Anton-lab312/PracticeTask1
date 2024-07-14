@@ -1,0 +1,1 @@
+Provider=SQLOLEDB.1;Persist Security Info=False;User ID=TourAgencyManager;Initial Catalog=Tour_Agency;Data Source=IMOS-Desktop\SQLEXPRESS
